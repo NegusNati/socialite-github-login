@@ -17,7 +17,7 @@ register page with GitHub
 
 Automatic registeration with GitHub
 
-<img src="https://user-images.githubusercontent.com/84500378/205484987-d8efa7fe-cae9-4759-a3d6-627a1a645328.png" width="1200" height="600">
+<img src="https://user-images.githubusercontent.com/84500378/205484987-d8efa7fe-cae9-4759-a3d6-627a1a645328.png" width="1500" height="600">
 
 My User table after autorization and registration
 
